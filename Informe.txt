@@ -1,1 +1,7 @@
-
+**Despues de la evaluacion e indagacion en los modelos ejecutados, se observaron las siguientes tendencias
+1: Los clientes que hacen churn son los mas nuevos, es decir los mas recientes prueban el servicio y no quedan satisfechos
+2: El servicio de fibra optica es el mas afectado, es probable que la empresa este fallando y su servicio sea deficiente, se le recomienda realizar una voz del cliente para identificar las causas de que este sea el servicio afectado. Probablemente no cumple con las espectativas de los clientes nuevos, y se puede hacer una relacion con los contratos month to month, el cliente al no estar obligado a estar un ano completo cancela los servicios. 
+*Se le recomienda a la empresa empezar por ahi, evaluar los clientes con clientes pequenos y con ese servicio. 
+Por otra parte de los modelos de knn, que aunque fue menos eficiente, se toman los datos de influyeron en el modelo, para darle una perspectiva mas amplia a la compania
+Las personas con pareja tienden a influir mas en el churn, asi como el sexo tambien es de peso en este modelo, por lo tanto se recomienda filtrar un poco mas la informacion para aplicar estrategias mas robustas y asi poder fortalecer la retencion del cliente. 
+Por ultimo, se le recomienda a la empresa revisar el metodo de pago paperlessbilling, pues esto esta influyendo en los modelos de prediccion como una variable de peso.
